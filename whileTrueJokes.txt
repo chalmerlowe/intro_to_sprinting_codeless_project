@@ -1,0 +1,16 @@
+
+import python
+from jokes import *
+
+knkn_list = jokes.knockknocks(type=random)
+
+i = 0
+while knkn_list[i].status == "funny":
+    print(knkn_list[i].content)
+    if (knkn_list[i].type == "desert_dry"):
+        jokes.call_911()
+        break
+    i += 1
+    if (i > len(knkn_list):
+        break
+
