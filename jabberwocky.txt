@@ -20,7 +20,7 @@ So rested he by the Tumtum tree
 And, as in uffish thought he stood, 
       The Jabberwock, with eyes of flame, 
 Came whiffling through the tulgey wood, 
-      And burbled as it came! 
+      And burped as it came! 
 
 One, two! One, two! And through and through 
       The vorpal blade went snicker-snack! 
@@ -33,6 +33,4 @@ O frabjous day! Callooh! Callay!”
       He chortled in his joy. 
 
 ’Twas brillig, and the slithy toves 
-      Did gyre and gimble in the wabe: 
-All mimsy were the borogoves, 
-      And the mome raths outgrabe.
+      Did gyre and gimble in the wabe: All mimsy were the borogoves, And the mome raths outgrabe.
