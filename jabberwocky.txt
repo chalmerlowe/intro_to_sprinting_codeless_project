@@ -15,15 +15,21 @@ So rested he by the Tumtum tree
 And, as in uffish thought he stood, 
       The Jabberwock, with eyes of flame, 
 Came whiffling through the tulgey wood, 
-      And burbled as it came! 
+      And burbled as it bla bla came! HIHIHI
 
 One, two! One, two! And through and through 
       The vorpal blade went snicker-snack! 
-She left it dead, and with its _head_ 
-      She went galumphing back. 
+      
+He left it dead, and with its _head_ with my changes
+      He went galumphing back.
 
+<<<<<<< HEAD
+“And hast thou slain the Jabberwock? Is this really correct?
+      Come to my arms, my beamish boy! 
+=======
 “And hast thou slain the Jabberwock? 
       Come to my arms, my beamish boy!!! 
+>>>>>>> d65b7c236f6d1f78d7e676604e02bb0cd29531bb
 O frabjous day! Callooh! Callay!” 
       He chortled in his joy. 
 
