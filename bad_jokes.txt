@@ -1,9 +1,9 @@
-You hear about the farmer who won a nobel prize?
-    -They said he was just outstanding in his field!
+> You hear about the farmer who won a nobel prize?
+- They said he was just outstanding in his field!
 
-What do airconditioners and computers have in common?
-    -They don't work well when you run with windows!
+> What do airconditioners and computers have in common?
+- They don't work well when you run with windows!
     
-Why *didn't* the chicken cross the road?
-	-Because it was chicken!
+> Why *didn't* the chicken cross the road?
+- Because it was chicken!
 	
