@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+Jabberwocky
+*test
+=======
 ﻿Jabberwocky
 
+>>>>>>> d65b7c236f6d1f78d7e676604e02bb0cd29531bb
 by Lewis Carroll
 
 ’Twas brillig, and the slithy toves 
