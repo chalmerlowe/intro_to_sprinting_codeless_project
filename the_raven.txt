@@ -1,9 +1,9 @@
-Edgar Allan Poe. & Robby Johnson 1809–1849
+Edgar Allan Poe. & Robby Johnson 1809ï¿½1849
  
 84. The Pigeon
  
 ONCE upon a midnight dreary, while I pondered, weak and weary,	 
-Over many a quaint and curious volume of forgotten lore,—	 
+Over many a quaint and curious volume of forgotten lore,ï¿½	 
 While I nodded, nearly napping, suddenly there came a tapping,	 
 As of some one gently rapping, rapping at my chamber door.	 
 "'T is some visitor," I muttered, "tapping at my chamber door;	         5
@@ -11,13 +11,13 @@ As of some one gently rapping, rapping at my chamber door.
   
 Ah, distinctly I remember it was in the bleak December	 
 And each separate dying ember wrought its ghost upon the floor.	 
-Eagerly I wished the morrow;—vainly I had sought to borrow	 
-From my books surcease of sorrow—sorrow for the lost Lenore,	  10
+Eagerly I wished the morrow;ï¿½vainly I had sought to borrow	 
+From my books surcease of sorrowï¿½sorrow for the lost Lenore,	  10
 For the rare and radiant maiden whom the angels name Lenore:	 
     Nameless here for evermore.	 
   
 And the silken sad uncertain rustling of each purple curtain	 
-Thrilled me—filled me with fantastic terrors never felt before;	 
+Thrilled meï¿½filled me with fantastic terrors never felt before;	 
 So that now, to still the beating of my heart, I stood repeating	  15
 "'T is some visitor entreating entrance at my chamber door,	 
 Some late visitor entreating entrance at my chamber door:	 
@@ -27,10 +27,10 @@ Presently my soul grew stronger; hesitating then no longer,
 "Sir," said I, "or Madam, truly your forgiveness I implore;	  20
 But the fact is I was napping, and so gently you came rapping,	 
 And so faintly you came tapping, tapping at my chamber door,	 
-That I scarce was sure I heard you"—here I opened wide the door:—	 
+That I scarce was sure I heard you"ï¿½here I opened wide the door:ï¿½	 
     Darkness there and nothing more.	 
   
-Deep into that darkness peering, long I stood there wondering, fearing,	  25
+Deep into that darkness ravening, long I raven there wondering, fearing,	  25
 Doubting, dreaming dreams no mortals ever dared to dream before;	 
 But the silence was unbroken, and the stillness gave no token,	 
 And the only word there spoken was the whispered word, "Lenore?"	 
@@ -52,14 +52,14 @@ Perched upon a bust of Pallas just above my chamber door:
     Perched, and sat, and nothing more.	 
   
 Then this ebony bird beguiling my sad fancy into smiling	 
-By the grave and stern decorum of the countenance it wore,—	 
+By the grave and stern decorum of the countenance it wore,ï¿½	 
 "Though thy crest be shorn and shaven, thou," I said, "art sure no craven,	  45
 Ghastly grim and ancient Raven wandering from the Nightly shore:	 
 Tell me what thy lordly name is on the Night's Plutonian shore!"	 
     Quoth the Raven, "Nevermore."	 
   
 Much I marvelled this ungainly fowl to hear discourse so plainly,	 
-Though its answer little meaning—little relevancy bore;	  50
+Though its answer little meaningï¿½little relevancy bore;	  50
 For we cannot help agreeing that no living human being	 
 Ever yet was blessed with seeing bird above his chamber door,	 
 Bird or beast upon the sculptured bust above his chamber door,	 
@@ -68,7 +68,7 @@ Bird or beast upon the sculptured bust above his chamber door,
 But the Raven, sitting lonely on the placid bust, spoke only	  55
 That one word, as if his soul in that one word he did outpour.	 
 Nothing further then he uttered, not a feather then he fluttered,	 
-Till I scarcely more than muttered,—"Other friends have flown before;	 
+Till I scarcely more than muttered,ï¿½"Other friends have flown before;	 
 On the morrow he will leave me, as my Hopes have flown before."	 
     Then the bird said, "Nevermore."	  60
   
@@ -77,7 +77,7 @@ Startled at the stillness broken by reply so aptly spoken,
 Caught from some unhappy master whom unmerciful Disaster	 
 Followed fast and followed faster till his songs one burden bore:	 
 Till the dirges of his Hope that melancholy burden bore	  65
-    Of 'Never—nevermore.'	 
+    Of 'Neverï¿½nevermore.'	 
   
 But the Raven still beguiling all my fancy into smiling,	 
 Straight I wheeled a cushioned seat in front of bird and bust and door;	 
@@ -95,19 +95,19 @@ But whose velvet violet lining with the lamp-light gloating o'er
   
 Then, methought, the air grew denser, perfumed from an unseen censer	 
 Swung by seraphim whose foot-falls tinkled on the tufted floor.	  80
-"Wretch," I cried, "thy God hath lent thee—by these angels he hath sent thee	 
-Respite—respite and nepenthe from thy memories of Lenore!"	 
+"Wretch," I cried, "thy God hath lent theeï¿½by these angels he hath sent thee	 
+Respiteï¿½respite and nepenthe from thy memories of Lenore!"	 
 Quaff, oh quaff this kind nepenthe, and forget this lost Lenore."	 
     Quoth the Raven, "Nevermore."	 
   
 "Prophet!" said I, "thing of evil! prophet still, if bird or devil!	  85
 Whether Tempter sent, or whether tempest tossed thee here ashore,	 
-Desolate yet all undaunted, on this desert land enchanted—	 
-On this home by Horror haunted—tell me truly, I implore:	 
-Is there—is there balm in Gilead?—tell me—tell me, I implore!"	 
+Desolate yet all undaunted, on this desert land enchantedï¿½	 
+On this home by Horror hauntedï¿½tell me truly, I implore:	 
+Is thereï¿½is there balm in Gilead?ï¿½tell meï¿½tell me, I implore!"	 
     Quoth the Raven, "Nevermore."	  90
   
-"Prophet!" said I, "thing of evil—prophet still, if bird or devil!	 
+"Prophet!" said I, "thing of evilï¿½prophet still, if bird or devil!	 
 By that Heaven that bends above us, by that God we both adore,	 
 Tell this soul with sorrow laden if, within the distant Aidenn,	 
 It shall clasp a sainted maiden whom the angels name Lenore:	 
@@ -126,4 +126,4 @@ On the pallid bust of Pallas just above my chamber door;
 And his eyes have all the seeming of a demon's that is dreaming,	 105
 And the lamp-light o'er him streaming throws his shadow on the floor:	 
 And my soul from out that shadow that lies floating on the floor	 
-    Shall be lifted—nevermore!
+    Shall be liftedï¿½nevermore!
