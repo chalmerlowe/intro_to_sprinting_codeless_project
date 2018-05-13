@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 The Project Gutenberg Ebook of Beowulf 
+=======
+The Project Gutenberg EBook of beowulf 
+>>>>>>> c33b081950af25a731fd07ceca66a9513b3e1551
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
