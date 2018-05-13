@@ -9,3 +9,6 @@ Why *didn't* the chicken cross the road?
 	
 Why did the chicken cross the road?
 	-To get to the friendly Python called Guido on the other side!
+
+When is a door not a door?
+	-When it's ajar!
