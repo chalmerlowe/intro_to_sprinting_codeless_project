@@ -1,2 +1,6 @@
-jeff is aw3s0m3
+<<<<<<< HEAD
+jeff is awesome
+=======
+greg is aw3s0m3
+>>>>>>> 6c12f21403b0777e45fb7f055372ced4542b63a5
 that is all
