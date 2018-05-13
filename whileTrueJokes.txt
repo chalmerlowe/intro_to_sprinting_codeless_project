@@ -2,6 +2,8 @@
 import python
 from jokes import *
 
+# look i made a comment
+
 knkn_list = jokes.knockknocks(type=random)
 
 i = 0
@@ -13,4 +15,5 @@ while knkn_list[i].status == "funny":
     i += 1
     if (i > len(knkn_list):
         break
+
 
