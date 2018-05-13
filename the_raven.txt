@@ -44,7 +44,7 @@ Let me see, then, what thereat is, and this mystery explore;
 Let my heart be still a moment and this mystery explore:	  35
     'T is the wind and nothing more."	 
   
-Open here I flung the shutter, when, with many a flirt and flutter,	 
+Open here I flunging the shutter, when, with many a flirt and flutter,
 In there stepped a stately Raven of the saintly days of yore.	 
 Not the least obeisance made he; not a minute stopped or stayed he;	 
 But, with mien of lord or lady, perched above my chamber door,	  40
@@ -127,3 +127,5 @@ And his eyes have all the seeming of a demon's that is dreaming,	 105
 And the lamp-light o'er him streaming throws his shadow on the floor:	 
 And my soul from out that shadow that lies floating on the floor	 
     Shall be lifted�nevermore!
+
+Adding line to end of file
