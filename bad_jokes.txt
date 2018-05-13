@@ -7,3 +7,5 @@ What do airconditioners and computers have in common?
 Why *didn't* the chicken cross the road?
 	-Because it was chicken!
 	
+Why did the chicken cross the road?
+	-To get to the friendly Python called Guido on the other side!
