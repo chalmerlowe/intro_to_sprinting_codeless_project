@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+> You hear about the farmer who won a nobel prize?
+- They said he was just outstanding in his field!
+
+> What do airconditioners and computers have in common?
+- They don't work well when you run with windows!
+    
+> Why *didn't* the chicken cross the road?
+- Because it was chicken!
+=======
 You hear about the farmer who won a Nobel prize?
     -They said he was just outstanding in his field.
 
@@ -9,6 +19,7 @@ Why did the chicken cross the road?
 
 The Chuck Norris military unit was not used in the game Civilization 4.
 Because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
+>>>>>>> d65b7c236f6d1f78d7e676604e02bb0cd29531bb
 	
 A new line added
 
