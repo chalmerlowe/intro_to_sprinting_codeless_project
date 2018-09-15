@@ -3,7 +3,7 @@ Edgar Allan Poe, 1809 - 1849
 
 HELLO!
 
-HELLO AGAIN!
+hello again!
 
  It was many and many a year ago,
    In a kingdom by the sea,
