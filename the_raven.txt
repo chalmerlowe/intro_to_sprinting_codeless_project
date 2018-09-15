@@ -20,6 +20,8 @@ And the silken sad uncertain rustling of each purple curtain
 Thrilled me�filled me with fantastic terrors never felt before;
 So that now, to still the beating of my heart, I stood repeating	  15
 "'T is some visitor entreating entrance at my chamber door,
+added line 23
+
 Some late visitor entreating entrance at my chamber door:
     This it is and nothing more."
 
