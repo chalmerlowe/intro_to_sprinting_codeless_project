@@ -1,4 +1,4 @@
-Jabberwocky
+﻿Jabberwocky
 by Lewis Carroll
 
 ’Twas brillig, and the slithy toves 
@@ -11,7 +11,8 @@ All mimsy were the borogoves,
 Beware the Jubjub bird, and shun 
       The frumious Bandersnatch!” 
 
-He took his vorpal sword in hand; 
+He took his vorpal sword in hand;
+ABCDEFG 
       Long time the manxome foe he sought— 
 So rested he by the Tumtum tree 
       And stood awhile in thought. 
