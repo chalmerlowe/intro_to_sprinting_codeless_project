@@ -1,4 +1,4 @@
-Jabberwocky
+﻿Jabberwocky
 by Lewis Carroll
 
 ’Twas brillig, and the slithy toves 
@@ -18,7 +18,7 @@ So rested he by the Tumtum tree
 
 And, as in uffish thought he stood, 
       The Jabberwock, with eyes of flame, 
-Came whiffling through the tulgey wood, 
+Came whiffling through the tulgey wood, yep
       And burbled as it came! 
 
 One, two! One, two! And through and through 
