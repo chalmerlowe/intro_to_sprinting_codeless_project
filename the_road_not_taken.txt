@@ -1,7 +1,6 @@
 The Road Not Taken Related Poem Content Details
-BY ROBERT FROST
-Audio Player
-00:0001:16Use Up/Down Arrow keys to increase or decrease volume.
+BY ROBERT FROST (March 26, 1874 - January 29, 1963)
+
 Two roads diverged in a yellow wood,
 And sorry I could not travel both
 And be one traveler, long I stood
@@ -25,3 +24,4 @@ Somewhere ages and ages hence:
 Two roads diverged in a wood, and I—
 I took the one less traveled by,
 And that has made all the difference.
+--Robert Frost, 1916
