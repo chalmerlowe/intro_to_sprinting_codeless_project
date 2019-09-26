@@ -1,4 +1,5 @@
 -- made a change to this file
+--
 
 
 Beowulf (modern English translation) Related Poem Content Details
@@ -32,6 +33,11 @@ liegemen loyal: by lauded deeds
 shall an earl have honor in every clan. 
 Forth he fared at the fated moment, 
 sturdy Scyld to the shelter of God. 
+
+
+
+
+
 Then they bore him over to ocean’s billow, 
 loving clansmen, as late he charged them, 
 while wielded words the winsome Scyld, 
@@ -63,6 +69,10 @@ in fame with all folk, since his father had gone
 away from the world, till awoke an heir, 
 haughty Healfdene, who held through life, 
 sage and sturdy, the Scyldings glad. 
+
+
+
+
 Then, one after one, there woke to him, 
 to the chieftain of clansmen, children four: 
 Heorogar, then Hrothgar, then Halga brave; 
