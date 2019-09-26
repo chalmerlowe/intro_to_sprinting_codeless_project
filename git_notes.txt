@@ -1,0 +1,1 @@
+git remote add upstream git@github.com:chalmerlowe/intro_to_sprinting_codeless_project.git
