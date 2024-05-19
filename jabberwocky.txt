@@ -1,9 +1,10 @@
+the instructor and staff are awesome. this is a great class.
+
 Jabberwocky
 by Lewis Carroll
 
-’Twas brillig, and the slithy toves 
+’Twas brillig, and the slithy toves - this was changed
       Did gyre and gimble in the wabe: 
-All mimsy were the borogoves, 
       And the mome raths outgrabe. 
 
 “Beware the Jabberwock, my son! 
@@ -11,7 +12,7 @@ All mimsy were the borogoves,
 Beware the Jubjub bird, and shun 
       The frumious Bandersnatch!” 
 
-He took his vorpal sword in hand; 
+He took his vorpal sword in hand; - this was added the second time 
       Long time the manxome foe he sought— 
 So rested he by the Tumtum tree 
       And stood awhile in thought. 
@@ -19,7 +20,7 @@ So rested he by the Tumtum tree
 And, as in uffish thought he stood, 
       The Jabberwock, with eyes of flame, 
 Came whiffling through the tulgey wood, 
-      And burbled as it came! 
+      And burbled as it came! - this was changed 
 
 One, two! One, two! And through and through 
       The vorpal blade went snicker-snack! 
