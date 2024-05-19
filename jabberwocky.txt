@@ -12,7 +12,7 @@ by Lewis Carroll
 Beware the Jubjub bird, and shun 
       The frumious Bandersnatch!” 
 
-He took his vorpal sword in hand; 
+He took his vorpal sword in hand; - this was added the second time 
       Long time the manxome foe he sought— 
 So rested he by the Tumtum tree 
       And stood awhile in thought. 
